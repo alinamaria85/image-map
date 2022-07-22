@@ -7,7 +7,7 @@
     <output href="webhelp-output"/>
     <publication transtype="webhelp-responsive"/>
   </deliverable>
-  <deliverable name="Image-map to PDF-CSS" id="pdf-css">
+  <deliverable name="Image-map to PDF-CSS" id="pdf">
   <context name="">
     <input href="gear-pump.ditamap"/>
   </context>
