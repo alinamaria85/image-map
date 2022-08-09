@@ -1,16 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <project xmlns="https://www.dita-ot.org/project">
-  <context name="garage ctxt" id="garage">
+  <context id="garage" name="garage ctxt">
     <input href="gear-pump.ditamap"/>
   </context>
   <publication id="webhelp" transtype="webhelp-responsive"/>
   <publication id="pdf" transtype="pdf-css-html5"/>
-  <deliverable name="Image-map to Webhelp" id="webhelp">
+  <deliverable id="webhelp" name="Image-map to Webhelp">
     <context idref="garage"/>
     <output href="webhelp-output"/>
     <publication idref="webhelp"/>
   </deliverable>
-  <deliverable name="Image-map to PDF-CSS" id="pdf">
+  <deliverable id="pdf" name="Image-map to PDF-CSS">
+    <context idref="garage"/>
+    <output href="pdf-output"/>
+    <publication idref="pdf"/>
+  </deliverable>
+  <deliverable id="Image-Map-6" name="Image-Map">
     <context idref="garage"/>
     <output href="pdf-output"/>
     <publication idref="pdf"/>
