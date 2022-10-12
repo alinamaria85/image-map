@@ -5,62 +5,27 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
-    <deliverable id="Image-map_to_Webhelp-163" name="Image-map to Webhelp">
+    <deliverable id="Image-map_to_Webhelp-166" name="Image-map to Webhelp">
         <context idref="gear"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Image-map_to_PDF-CSS-164" name="Image-map to PDF-CSS">
+    <deliverable id="Image-map_to_PDF-CSS-167" name="Image-map to PDF-CSS">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-Map-165" name="Image-Map">
+    <deliverable id="Image-Map-168" name="Image-Map">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-232" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-225" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-205" name="Image-map deliverable">
-        <context idref="gear"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Image-map_deliverable-212" name="Image-map deliverable">
-        <context idref="gear"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Image-map_deliverable-218" name="Image-map deliverable">
-        <context idref="gear"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Image-map_deliverable-199" name="Image-map deliverable">
-        <context idref="gear"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Image-map_deliverable-223" name="Image-map deliverable">
-        <context idref="gear"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Image-map_deliverable-213" name="Image-map deliverable">
-        <context idref="gear"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Image-map_deliverable-228" name="Image-map deliverable">
-        <context idref="gear"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
-    </deliverable>
-    <deliverable id="Image-map_deliverable-231" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-208" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -70,7 +35,17 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-214" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-216" name="Image-map deliverable">
+        <context idref="gear"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Image-map_deliverable-199" name="Image-map deliverable">
+        <context idref="gear"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Image-map_deliverable-205" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -85,7 +60,32 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-195" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-227" name="Image-map deliverable">
+        <context idref="gear"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Image-map_deliverable-228" name="Image-map deliverable">
+        <context idref="gear"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Image-map_deliverable-236" name="Image-map deliverable">
+        <context idref="gear"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Image-map_deliverable-218" name="Image-map deliverable">
+        <context idref="gear"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Image-map_deliverable-232" name="Image-map deliverable">
+        <context idref="gear"/>
+        <output href="pdf-output"/>
+        <publication idref="pdf"/>
+    </deliverable>
+    <deliverable id="Image-map_deliverable-213" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -95,7 +95,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-216" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-233" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -120,7 +120,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-167" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-222" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -130,12 +130,12 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-166" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-235" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-229" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-223" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -145,17 +145,17 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-225" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-237" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-208" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-229" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-233" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-195" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -180,7 +180,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-222" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-212" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -250,12 +250,12 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-227" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-214" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-168" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-231" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
@@ -370,7 +370,7 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="Image-map_deliverable-3" name="Image-map deliverable">
+    <deliverable id="Image-map_deliverable-238" name="Image-map deliverable">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
