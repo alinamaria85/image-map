@@ -18,8 +18,8 @@
         <output href="pdf-output"/>
         <publication idref="pdf"/>
     </deliverable>
-    <deliverable id="test-1685008976068" name="test">
-        <context idref="gear"/>
+    <deliverable id="test-1685010296111" name="test">
+        <context idref="test_ctxt"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
