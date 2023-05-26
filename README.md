@@ -1,1 +1,2 @@
 # image-map readme
+test
