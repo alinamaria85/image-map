@@ -13,7 +13,7 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="Image-map_to_PDF-CSS-173" name="Image-map to PDF-CSS">
+    <deliverable id="Image-map_to_PDF-CSS-1685446500105" name="Image-map to PDF-CSS">
         <context idref="gear"/>
         <output href="pdf-output"/>
         <publication idref="pdf"/>
