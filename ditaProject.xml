@@ -15,8 +15,8 @@
     </deliverable>
     <deliverable id="Image-map_to_PDF-CSS-1685447096348" name="Image-map to PDF-CSS">
         <context idref="gear"/>
-        <output href="pdf-output"/>
-        <publication idref="pdf"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
     </deliverable>
     <deliverable id="test-1685010296111" name="test">
         <context idref="test_ctxt"/>
