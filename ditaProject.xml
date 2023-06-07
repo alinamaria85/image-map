@@ -5,4 +5,9 @@
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
     <publication id="pdf" transtype="pdf-css-html5"/>
+    <deliverable id="test-1686131309928" name="test">
+        <context idref="test_ctxt"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
