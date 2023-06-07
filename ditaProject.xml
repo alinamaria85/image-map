@@ -23,11 +23,6 @@
         <output href="webhelp-output"/>
         <publication idref="webhelp"/>
     </deliverable>
-    <deliverable id="abcd-1686121884951" name="abcd">
-        <context idref="test_ctxt"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
     <deliverable id="abc-1686123210388" name="abc">
         <context idref="test_ctxt"/>
         <output href="webhelp-output"/>
